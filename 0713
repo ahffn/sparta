@@ -2,7 +2,9 @@
 
 ><목차>
 
-1. [유니티: 텍스트 선명도](#유니티:-텍스트-선명도)
+1. [유니티: 텍스트 선명도](#유니티-텍스트-선명도)
+2.
 
-# 유니티: 텍스트 선명도
-## unity: Canvas Scaler -> Dynamic Pixels Per U
+# 유니티 텍스트 선명도
+
+## Canvas -> Inspector-> Canvas Scaler -> Dynamic Pixels Per U
